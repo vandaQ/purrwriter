@@ -22,7 +22,7 @@ macOS 14 Sonoma or later · free · English and Russian
 - **10 paper tones** (including a dark one), **9 ribbon colors** and patterns: ruled with margin, grid, dotted, aged, recycled.
 - **8 carriages and charms** that swing when the carriage returns.
 - **A drawer with folders**: split your novel into parts and chapters.
-- **Export** a sheet or a whole folder to PDF, Word (.docx), Markdown, TXT or images. Printing and a Share button are built in.
+- **Export** a sheet to PDF, Markdown or TXT. Printing and a Share button are built in.
 - Your sheets are stored **only on your Mac** and never sent anywhere.
 - **Interface language**: English or Russian, switch it in the **Purrwriter → Language** menu.
 
@@ -85,7 +85,7 @@ macOS 14 Sonoma или новее · бесплатно · русский и а�
 - **10 оттенков бумаги** (включая тёмную), **9 цветов ленты** и узоры: линейка с полями, клетка, точка, состаренная, эко-бумага.
 - **8 кареток и подвески**, которые качаются при возврате каретки.
 - **Ящик с папками**: роман можно разложить по частям и главам.
-- **Экспорт** листа или целой папки в PDF, Word (.docx), Markdown, TXT и картинки. Есть печать и кнопка «Поделиться».
+- **Экспорт** листа в PDF, Markdown и TXT. Есть печать и кнопка «Поделиться».
 - Листы хранятся **только на вашем Mac** и никуда не отправляются.
 - **Язык интерфейса**: русский или английский, переключается в меню **Purrwriter → Язык**.
 
