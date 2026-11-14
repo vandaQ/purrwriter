@@ -17,7 +17,6 @@ macOS 14 Sonoma or later · free · English and Russian
 
 - **The sound of a real Erika 5 typewriter**, plus three more sound styles to choose from.
 - **A bell at the end of the line** and a carriage return, just like on a real typewriter.
-- **“Real typewriter” mode**: Delete doesn't erase a letter, it stays on the sheet.
 - **Night light**: a beam from the carriage or a desk lamp, for writing in the dark.
 - **10 paper tones** (including a dark one), **9 ribbon colors** and patterns: ruled with margin, grid, dotted, aged, recycled.
 - **8 carriages and charms** that swing when the carriage returns.
@@ -80,7 +79,6 @@ macOS 14 Sonoma или новее · бесплатно · русский и а�
 
 - **Звук настоящей машинки Erika 5**, плюс ещё три характера звука на выбор.
 - **Звонок в конце строки** и возврат каретки, как на настоящей машинке.
-- **Режим «как настоящая машинка»**: Delete не стирает букву, а оставляет её на листе.
 - **Ночной свет**: луч от каретки или настольная лампа, чтобы писать в темноте.
 - **10 оттенков бумаги** (включая тёмную), **9 цветов ленты** и узоры: линейка с полями, клетка, точка, состаренная, эко-бумага.
 - **8 кареток и подвески**, которые качаются при возврате каретки.
