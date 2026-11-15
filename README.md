@@ -9,7 +9,7 @@ For novels, journals, morning pages and anything you want to write slowly and wi
 
 ### [⬇️ Download Purrwriter.dmg](https://github.com/vandaQ/purrwriter/releases/latest/download/Purrwriter.dmg)
 
-macOS 14 Sonoma or later · free · English and Russian
+macOS 14 Sonoma or later · free · English, German, French, Italian, Spanish and Russian
 
 ![Purrwriter: dark paper and a desk lamp](screenshots/en/dark.png)
 
@@ -20,14 +20,17 @@ macOS 14 Sonoma or later · free · English and Russian
 - **Night light**: a beam from the carriage or a desk lamp, for writing in the dark.
 - **10 paper tones** (including a dark one), **9 ribbon colors** and patterns: ruled with margin, grid, dotted, aged, recycled.
 - **8 carriages and charms** that swing when the carriage returns.
-- **A drawer with folders**: split your novel into parts and chapters.
-- **Export** a sheet to PDF, Markdown or TXT. Printing and a Share button are built in.
+- **A drawer with folders** for your novels, chapters and notes.
+- **Export** a sheet to PDF, Markdown or TXT. Printing, a Share button and a pretty card of your text for social media are built in.
+- **Backups**: all sheets, folders and statistics in one file (File → Back Up All Sheets…), with gentle reminders.
 - Your sheets are stored **only on your Mac** and never sent anywhere.
-- **Interface language**: English or Russian, switch it in the **Purrwriter → Language** menu.
+- **Six languages**: English, German, French, Italian, Spanish and Russian — switch in the **Purrwriter → Language** menu.
+
+**Purrwriter Pro is coming soon to the Mac App Store**: daily goals and sprints, writing statistics, Forward Only mode, Morning Pages, nested folders, search across all sheets, long sheets, Word and ePub export.
 
 ![Light ruled paper](screenshots/en/light.png)
 
-![The drawer with folders and chapters](screenshots/en/drawer.png)
+![The drawer with folders](screenshots/en/drawer.png)
 
 ![Appearance: paper, ribbon, patterns](screenshots/en/appearance-pastel.png)
 
@@ -45,6 +48,10 @@ If the button isn't there, run this in Terminal:
 ```
 xattr -dr com.apple.quarantine /Applications/Purrwriter.app
 ```
+
+### Updating from version 1.2
+
+Just install the new version over the old one. On first launch your sheets move from the `Karetka` data folder to `Purrwriter` by themselves — nothing to do. The old app name «Каретка» is gone; you can delete `Каретка.app` after updating.
 
 ## Feedback and ideas
 
@@ -71,7 +78,7 @@ Copying, modifying, selling or redistributing the app without the author's writt
 
 ### [⬇️ Скачать Purrwriter.dmg](https://github.com/vandaQ/purrwriter/releases/latest/download/Purrwriter.dmg)
 
-macOS 14 Sonoma или новее · бесплатно · русский и английский
+macOS 14 Sonoma или новее · бесплатно · русский, английский, немецкий, французский, итальянский и испанский
 
 ![Purrwriter: тёмная бумага и лампа](screenshots/ru/dark.png)
 
@@ -82,14 +89,17 @@ macOS 14 Sonoma или новее · бесплатно · русский и а�
 - **Ночной свет**: луч от каретки или настольная лампа, чтобы писать в темноте.
 - **10 оттенков бумаги** (включая тёмную), **9 цветов ленты** и узоры: линейка с полями, клетка, точка, состаренная, эко-бумага.
 - **8 кареток и подвески**, которые качаются при возврате каретки.
-- **Ящик с папками**: роман можно разложить по частям и главам.
-- **Экспорт** листа в PDF, Markdown и TXT. Есть печать и кнопка «Поделиться».
+- **Ящик с папками** для романов, глав и заметок.
+- **Экспорт** листа в PDF, Markdown и TXT. Есть печать, кнопка «Поделиться» и красивая карточка с текстом для соцсетей.
+- **Резервные копии**: все листы, папки и статистика в одном файле (Файл → Сохранить резервную копию…) и напоминания о них.
 - Листы хранятся **только на вашем Mac** и никуда не отправляются.
-- **Язык интерфейса**: русский или английский, переключается в меню **Purrwriter → Язык**.
+- **Шесть языков**: русский, английский, немецкий, французский, итальянский и испанский — переключаются в меню **Purrwriter → Язык**.
+
+**Скоро в Mac App Store — Purrwriter Pro**: цель на день и спринты, статистика письма, режим «Только вперёд», утренние страницы, вложенные папки, поиск по всем листам, длинные листы, экспорт в Word и ePub.
 
 ![Светлая бумага в линейку](screenshots/ru/light.png)
 
-![Ящик с папками и главами](screenshots/ru/drawer.png)
+![Ящик с папками](screenshots/ru/drawer.png)
 
 ![Оформление: бумага, лента, узоры](screenshots/ru/appearance-pastel.png)
 
@@ -107,6 +117,10 @@ macOS 14 Sonoma или новее · бесплатно · русский и а�
 ```
 xattr -dr com.apple.quarantine /Applications/Purrwriter.app
 ```
+
+### Обновление с версии 1.2
+
+Просто установите новую версию поверх старой. При первом запуске листы сами переедут из папки данных `Karetka` в `Purrwriter` — ничего делать не нужно. Старое имя «Каретка» больше не используется: после обновления `Каретка.app` можно удалить.
 
 ### Отзывы и идеи
 
