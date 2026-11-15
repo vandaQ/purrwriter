@@ -86,15 +86,6 @@ This free version on GitHub stays free.
 - **Nested folders** — a novel with parts, chapters and scenes inside one another.
 - **Export for real manuscripts.** Word (.docx) to send to an editor, sheets as images, a whole folder as one file, and an **ePub book** with a title page and table of contents, made from your folder of chapters.
 
-**Planned for Pro** (not available yet — coming in future updates)
-
-- **Automatic snapshots.** Purrwriter will quietly keep the history of every sheet — hourly, daily and weekly — so text you overwrote by accident can be brought back.
-- **Automatic backups to a folder you choose**, on a schedule: an external drive, Dropbox or any other folder.
-- **Sync through iCloud** between your Macs.
-- **Background sounds**: rain or a crackling fireplace while you write.
-
-Manual backups (File → Back Up All Sheets…) stay free for everyone, always: protecting your own writing should never cost money. Pro only makes it automatic.
-
 ### Updating from version 1.2
 
 Just install the new version over the old one. On first launch your sheets move from the `Karetka` data folder to `Purrwriter` by themselves — nothing to do. The old app name «Каретка» is gone; you can delete `Каретка.app` after updating.
@@ -200,15 +191,6 @@ xattr -dr com.apple.quarantine /Applications/Purrwriter.app
 - **Длинные листы** — 15 000 знаков вместо 3000: целая глава на одном листе.
 - **Вложенные папки** — роман с частями, главами и сценами внутри друг друга.
 - **Экспорт для настоящих рукописей.** Word (.docx), чтобы отправить редактору, листы картинками, целая папка одним файлом и **книга ePub** с титулом и оглавлением из папки с главами.
-
-**Планируется в Pro** (пока нет — появится в следующих обновлениях)
-
-- **Автоматические снимки.** Purrwriter будет сам тихо хранить историю каждого листа — по часам, дням и неделям, — чтобы случайно затёртый текст можно было вернуть.
-- **Автоматические резервные копии в выбранную папку** по расписанию: на внешний диск, в Dropbox или любую другую папку.
-- **Синхронизация через iCloud** между вашими Mac.
-- **Звуки на фоне**: дождь или потрескивающий камин, пока вы пишете.
-
-Ручные резервные копии (Файл → Сохранить резервную копию…) всегда остаются бесплатными для всех: защищать свои тексты не должно стоить денег. Pro только делает это автоматическим.
 
 ### Обновление с версии 1.2
 
