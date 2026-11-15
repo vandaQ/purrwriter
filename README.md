@@ -64,6 +64,7 @@ This free version on GitHub stays free.
 | Card for social media | ✓ | ✓ |
 | Backups and reminders | ✓ | ✓ |
 | Six interface languages | ✓ | ✓ |
+| Typewriter fonts | 4 | 9 |
 | Sheet length | 3,000 characters | 15,000 characters |
 | Nested folders: parts, chapters and sections | | ✓ |
 | Search across every sheet and folder | | ✓ |
@@ -84,6 +85,7 @@ This free version on GitHub stays free.
 - **Search** across every sheet and folder, with the found words highlighted.
 - **Long sheets** — 15,000 characters instead of 3,000: a whole chapter on one sheet.
 - **Nested folders** — a novel with parts, chapters and scenes inside one another.
+- **Five more typewriter fonts**: PT Mono, IBM Plex Mono and Anonymous Pro (with Cyrillic), Courier Prime and Cutive Mono.
 - **Export for real manuscripts.** Word (.docx) to send to an editor, sheets as images, a whole folder as one file, and an **ePub book** with a title page and table of contents, made from your folder of chapters.
 
 ### Updating from version 1.2
@@ -170,6 +172,7 @@ xattr -dr com.apple.quarantine /Applications/Purrwriter.app
 | Карточка для соцсетей | ✓ | ✓ |
 | Резервные копии и напоминания | ✓ | ✓ |
 | Шесть языков интерфейса | ✓ | ✓ |
+| Машинописные шрифты | 4 | 9 |
 | Длина листа | 3000 знаков | 15 000 знаков |
 | Вложенные папки: части, главы и разделы | | ✓ |
 | Поиск по всем листам и папкам | | ✓ |
@@ -190,6 +193,7 @@ xattr -dr com.apple.quarantine /Applications/Purrwriter.app
 - **Поиск** по всем листам и папкам, найденные слова подсвечены.
 - **Длинные листы** — 15 000 знаков вместо 3000: целая глава на одном листе.
 - **Вложенные папки** — роман с частями, главами и сценами внутри друг друга.
+- **Ещё пять машинописных шрифтов**: PT Mono, IBM Plex Mono и Anonymous Pro (с кириллицей), Courier Prime и Cutive Mono (только латиница).
 - **Экспорт для настоящих рукописей.** Word (.docx), чтобы отправить редактору, листы картинками, целая папка одним файлом и **книга ePub** с титулом и оглавлением из папки с главами.
 
 ### Обновление с версии 1.2
